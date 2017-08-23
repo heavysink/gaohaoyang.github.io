@@ -11,8 +11,6 @@ type: page
 
 ## 关于我
 
-<iframe src="https://heavysink.github.io" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
-
 普通的美帝PhD一枚，目前研究方向为风力发电机对地表环境的影响。
 
 爱Arch Linux，爱打包，爱科研，爱云呆呆。
