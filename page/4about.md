@@ -15,6 +15,7 @@ type: page
 
 爱Arch Linux，爱打包，爱科研，爱云呆呆。
 
+有时会在fanfiction上面写些脑洞文。
 
 ## 联系我
 
